@@ -8,7 +8,7 @@
     "express-serve-static": "NODE_ENV=production node express-serve-static.js",
     "express-sirv": "NODE_ENV=production node express-sirv.js",
     "polka-serve-static": "NODE_ENV=production node polka-serve-static.js",
-    "polka-sirv": "NODE_ENV=production node polka-sirv.js",
+    "polka-sirv": "NODE_ENV=production node polka-sirv.js"
   },
   "keywords": [],
   "author": "",
